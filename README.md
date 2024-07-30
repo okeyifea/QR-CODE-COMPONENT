@@ -32,7 +32,7 @@ SCREENSHOOT
 LINKS
 SOLUTION LINK (file:///C:/Users/USER/Documents/GitHub/QR-CODE-COMPONENT/index.html)
 
-LIVE LINK ()
+LIVE LINK (https://okeyifea.github.io/QR-CODE-COMPONENT/)
 
 BUILDING PROCESS
 Creating a responsive and accessible QR code component involves several steps. Here's a detailed overview of the building process, from setting up the project to implementing and testing the design.
